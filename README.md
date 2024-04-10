@@ -49,7 +49,7 @@ This repository contains a Gesture Recognition Suite with four modules designed 
 
 ### Credits:
 
-- Bhavith Shetty (Bhavith88)  
+- [Bhavith Shetty](https://github.com/Bhavith88)  
 
 ### Contribution:
 
