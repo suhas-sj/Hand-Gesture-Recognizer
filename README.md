@@ -47,6 +47,10 @@ This repository contains a Gesture Recognition Suite with four modules designed 
 - Ensure proper environment setup and hardware compatibility before using the Gesture Recognition Suite.
 - Refer to the documentation and example scripts for integrating the modules into custom applications.
 
+### Credits:
+
+- Bhavith Shetty (Bhavith88)  
+
 ### Contribution:
 
 - Contributions to enhance and expand the functionality of the Gesture Recognition Suite are welcome.
